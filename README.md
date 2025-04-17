@@ -1,5 +1,5 @@
 # 💫 Acerca de mi:
-¡Hola, bienvenido a mi perfil de GitHub!<br><br>Soy una entusiasta de la tecnología, la programación y el anime.<br><br>A lo largo de mi carrera como consultora funcional, he trabajado con varios equipos de desarrollo, lo cuál despertó mi interés por la programación. Descubrir las herramientas que se pueden construir y el impacto positivo tienen en el negocio confirmó la dirección que quería seguir en mi carrera profesional.<br><br>He cursado un bootcamp full stack de Java trainee, obtenido certificaciones en otros lenguajes y continuado mis estudios de forma autodidacta.<br><br>Disfruto del aprendizaje y la enseñanza.<br><br>Estoy capacitada para roles junior y trainee.<br>
+¡Hola, bienvenido a mi perfil de GitHub!<br><br>Soy una entusiasta de la tecnología, la programación.<br><br>Soy programadora junior con formación en desarrollo full stack y 10 años de experiencia como analista funcional en el sector salud. Me apasiona aprender nuevas tecnologías y crear soluciones que mejoren los procesos. Este repositorio es mi espacio para compartir proyectos, practicar buenas prácticas y seguir creciendo como desarrolladora.<br><br>Estoy capacitada para roles junior y trainee.<br>
 
 
 ## 🌐 Socials:
